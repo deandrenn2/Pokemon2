@@ -1,0 +1,45 @@
+body{
+	font-family: calibri;
+	color: #818180;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+}
+
+h1{
+	text-align: center;
+	color:#3AB1BB;
+	margin: 0px;
+	font-size: 5em;
+}
+
+
+img{
+	 width: 100%;
+}
+div#opciones {
+background-color: rgba(0, 0, 0, 0.34);
+text-align: center;
+}
+
+
+
+#opciones > div {
+	display: inline-block;
+	width: 15%;
+	height: auto;
+	background-color: #3AB1BB;
+	margin:2%;
+	vertical-align: center;
+	cursor:pointer;
+	font-size: 2em;
+	color: #fff;
+}
+
+#datos{
+	color:#D61846;
+	font-size: 1.5em;
+	text-shadow:-1px 1px 0px #5c5c5c;
+		padding: 1em;
+}
